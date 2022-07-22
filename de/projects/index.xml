@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projectos on Introdução</title>
-    <link>https://sun-factory.github.io/de/projects/</link>
+    <link>https://sun-factory.github.io/SunFactory.github.io/de/projects/</link>
     <description>Recent content in Projectos on Introdução</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language><atom:link href="https://sun-factory.github.io/de/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>de</language><atom:link href="https://sun-factory.github.io/SunFactory.github.io/de/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sun Glasses</title>
-      <link>https://sun-factory.github.io/de/projects/sunglasses/</link>
+      <link>https://sun-factory.github.io/SunFactory.github.io/de/projects/sunglasses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sun-factory.github.io/de/projects/sunglasses/</guid>
+      <guid>https://sun-factory.github.io/SunFactory.github.io/de/projects/sunglasses/</guid>
       <description>Create from scatch The objective of this project was to demonstrate that it is possible to create a sustainable factory using plastic waste, human energy and solar thermal energy.
 With the help of Recua we reproduced the solar injection machines, invented by volks.eco and Plastok.
 After building the machines, Liquen eyewear co-developed and manufactored this sunglasses from scratch.
@@ -20,20 +20,20 @@ We take care of every step between the idea and the final product.</description>
     
     <item>
       <title>Bottle opener</title>
-      <link>https://sun-factory.github.io/de/projects/bottle-opener/</link>
+      <link>https://sun-factory.github.io/SunFactory.github.io/de/projects/bottle-opener/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sun-factory.github.io/de/projects/bottle-opener/</guid>
+      <guid>https://sun-factory.github.io/SunFactory.github.io/de/projects/bottle-opener/</guid>
       <description>Quick shape The aim of this project was to create a practical product that could be personalized and quickly. To save time, we have developed a new process for making injection molds using 3D printing.
 We can design and create moulds in a short time.</description>
     </item>
     
     <item>
       <title>Work Shop</title>
-      <link>https://sun-factory.github.io/de/projects/workshop/</link>
+      <link>https://sun-factory.github.io/SunFactory.github.io/de/projects/workshop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sun-factory.github.io/de/projects/workshop/</guid>
+      <guid>https://sun-factory.github.io/SunFactory.github.io/de/projects/workshop/</guid>
       <description>We teach it After more than a year of experience in plastic recycling with solar thermal energy, we are available to teach you and demonstrate the effectiveness of our process.
 Want to learn how solar plastic injection works. take a look at our Workshop Agenda.
 We can explain how to create recycled plastic products using solar energy.</description>
@@ -41,10 +41,10 @@ We can explain how to create recycled plastic products using solar energy.</desc
     
     <item>
       <title>Machines</title>
-      <link>https://sun-factory.github.io/de/projects/machines/</link>
+      <link>https://sun-factory.github.io/SunFactory.github.io/de/projects/machines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sun-factory.github.io/de/projects/machines/</guid>
+      <guid>https://sun-factory.github.io/SunFactory.github.io/de/projects/machines/</guid>
       <description>We create our machines Our manual solar-concentrating machines are the key to the ecological production of recycled plastic objects.
 Based on the shared know-how, we have built, tested, used and characterized the plastic injection process using solar energy.
 After more than a year of using the solar thermal process, we were able to list the optimization points for a process guaranteeing the production of machines and products on a larger scale.</description>

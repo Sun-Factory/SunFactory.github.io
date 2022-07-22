@@ -2,247 +2,363 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://sunfactory.pt/de/projects/photography/</loc>
+    <loc>https://sun-factory.github.io/de/projects/sunglasses/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="http://sunfactory.pt/es/projects/photography/"
+                hreflang="en"
+                href="https://sun-factory.github.io/projects/sunglasses/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://sunfactory.pt/de/projects/photography/"
+                href="https://sun-factory.github.io/de/projects/sunglasses/"
                 />
   </url><url>
-    <loc>http://sunfactory.pt/de/projects/design/</loc>
+    <loc>https://sun-factory.github.io/de/projects/bottle-opener/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="http://sunfactory.pt/es/projects/design/"
+                hreflang="en"
+                href="https://sun-factory.github.io/projects/bottle-opener/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://sunfactory.pt/de/projects/design/"
+                href="https://sun-factory.github.io/de/projects/bottle-opener/"
                 />
   </url><url>
-    <loc>http://sunfactory.pt/de/projects/writing/</loc>
+    <loc>https://sun-factory.github.io/de/projects/workshop/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="http://sunfactory.pt/es/projects/writing/"
+                hreflang="en"
+                href="https://sun-factory.github.io/projects/workshop/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://sunfactory.pt/de/projects/writing/"
+                href="https://sun-factory.github.io/de/projects/workshop/"
                 />
   </url><url>
-    <loc>http://sunfactory.pt/de/projects/</loc>
+    <loc>https://sun-factory.github.io/de/projects/machines/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sun-factory.github.io/projects/machines/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://sun-factory.github.io/de/projects/machines/"
+                />
+  </url><url>
+    <loc>https://sun-factory.github.io/de/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://sunfactory.pt/es/projects/"
+                href="https://sun-factory.github.io/es/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://sunfactory.pt/projects/"
+                href="https://sun-factory.github.io/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://sunfactory.pt/de/projects/"
+                href="https://sun-factory.github.io/de/projects/"
                 />
   </url><url>
-    <loc>http://sunfactory.pt/de/blog/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <loc>https://sun-factory.github.io/de/blog/</loc>
+    <lastmod>2022-02-21T16:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://sunfactory.pt/es/blog/"
+                href="https://sun-factory.github.io/es/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://sunfactory.pt/blog/"
+                href="https://sun-factory.github.io/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://sunfactory.pt/de/blog/"
+                href="https://sun-factory.github.io/de/blog/"
                 />
   </url><url>
-    <loc>http://sunfactory.pt/de/blog/hipster-ipsum/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-  </url><url>
-    <loc>http://sunfactory.pt/de/tags/ipsum/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <loc>https://sun-factory.github.io/de/tags/blog/</loc>
+    <lastmod>2022-02-21T16:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="http://sunfactory.pt/es/tags/ipsum/"
+                hreflang="en"
+                href="https://sun-factory.github.io/tags/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://sunfactory.pt/de/tags/ipsum/"
+                href="https://sun-factory.github.io/de/tags/blog/"
                 />
   </url><url>
-    <loc>http://sunfactory.pt/de/tags/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <loc>https://sun-factory.github.io/de/tags/features/</loc>
+    <lastmod>2022-02-21T16:04:06-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sun-factory.github.io/tags/features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://sun-factory.github.io/de/tags/features/"
+                />
+  </url><url>
+    <loc>https://sun-factory.github.io/de/</loc>
+    <lastmod>2022-02-21T16:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://sunfactory.pt/es/tags/"
+                href="https://sun-factory.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://sunfactory.pt/tags/"
+                href="https://sun-factory.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://sunfactory.pt/de/tags/"
+                href="https://sun-factory.github.io/de/"
                 />
   </url><url>
-    <loc>http://sunfactory.pt/de/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <loc>https://sun-factory.github.io/de/series/quickstart/</loc>
+    <lastmod>2022-02-21T16:04:06-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sun-factory.github.io/series/quickstart/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://sun-factory.github.io/de/series/quickstart/"
+                />
+  </url><url>
+    <loc>https://sun-factory.github.io/de/series/</loc>
+    <lastmod>2022-02-21T16:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://sunfactory.pt/es/"
+                href="https://sun-factory.github.io/es/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://sunfactory.pt/"
+                href="https://sun-factory.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://sunfactory.pt/de/"
+                href="https://sun-factory.github.io/de/series/"
                 />
   </url><url>
-    <loc>http://sunfactory.pt/de/tags/words/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <loc>https://sun-factory.github.io/de/blog/multi-author/</loc>
+    <lastmod>2022-02-21T16:04:06-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sun-factory.github.io/blog/multi-author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://sun-factory.github.io/de/blog/multi-author/"
+                />
+  </url><url>
+    <loc>https://sun-factory.github.io/de/tags/</loc>
+    <lastmod>2022-02-21T16:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://sunfactory.pt/es/tags/words/"
+                href="https://sun-factory.github.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://sunfactory.pt/tags/words/"
+                href="https://sun-factory.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://sunfactory.pt/de/tags/words/"
+                href="https://sun-factory.github.io/de/tags/"
                 />
   </url><url>
-    <loc>http://sunfactory.pt/de/tags/code/</loc>
+    <loc>https://sun-factory.github.io/de/series/example-posts/</loc>
+    <lastmod>2022-02-20T12:04:16-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sun-factory.github.io/series/example-posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://sun-factory.github.io/de/series/example-posts/"
+                />
+  </url><url>
+    <loc>https://sun-factory.github.io/de/tags/images/</loc>
+    <lastmod>2022-02-20T12:04:16-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://sun-factory.github.io/es/tags/images/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sun-factory.github.io/tags/images/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://sun-factory.github.io/de/tags/images/"
+                />
+  </url><url>
+    <loc>https://sun-factory.github.io/de/blog/coffee-ipsum/</loc>
+    <lastmod>2022-02-20T12:04:16-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://sun-factory.github.io/es/blog/coffee-ipsum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sun-factory.github.io/blog/coffee-ipsum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://sun-factory.github.io/de/blog/coffee-ipsum/"
+                />
+  </url><url>
+    <loc>https://sun-factory.github.io/de/blog/configuration/</loc>
+    <lastmod>2020-07-25T02:04:06-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sun-factory.github.io/blog/configuration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://sun-factory.github.io/de/blog/configuration/"
+                />
+  </url><url>
+    <loc>https://sun-factory.github.io/de/tags/code/</loc>
+    <lastmod>2020-07-25T02:04:06-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://sun-factory.github.io/es/tags/code/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sun-factory.github.io/tags/code/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://sun-factory.github.io/de/tags/code/"
+                />
+  </url><url>
+    <loc>https://sun-factory.github.io/de/blog/long-form-post/</loc>
+    <lastmod>2019-05-30T20:18:53-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sun-factory.github.io/blog/long-form-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://sun-factory.github.io/de/blog/long-form-post/"
+                />
+  </url><url>
+    <loc>https://sun-factory.github.io/de/blog/hipster-ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url><url>
+    <loc>https://sun-factory.github.io/de/tags/ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://sun-factory.github.io/es/tags/ipsum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://sun-factory.github.io/de/tags/ipsum/"
+                />
+  </url><url>
+    <loc>https://sun-factory.github.io/de/tags/words/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://sun-factory.github.io/es/tags/words/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sun-factory.github.io/tags/words/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://sun-factory.github.io/de/tags/words/"
+                />
+  </url><url>
+    <loc>https://sun-factory.github.io/de/tags/markdown/</loc>
+    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sun-factory.github.io/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://sun-factory.github.io/de/tags/markdown/"
+                />
+  </url><url>
+    <loc>https://sun-factory.github.io/de/blog/startup-ipsum/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://sunfactory.pt/es/tags/code/"
+                href="https://sun-factory.github.io/es/blog/startup-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://sunfactory.pt/tags/code/"
+                href="https://sun-factory.github.io/blog/startup-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://sunfactory.pt/de/tags/code/"
+                href="https://sun-factory.github.io/de/blog/startup-ipsum/"
                 />
   </url><url>
-    <loc>http://sunfactory.pt/de/blog/startup-ipsum/</loc>
-    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://sunfactory.pt/es/blog/startup-ipsum/"
-                />
+    <loc>https://sun-factory.github.io/de/blog/no-date/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://sunfactory.pt/blog/startup-ipsum/"
+                href="https://sun-factory.github.io/blog/no-date/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://sunfactory.pt/de/blog/startup-ipsum/"
-                />
-  </url><url>
-    <loc>http://sunfactory.pt/de/tags/coffee/</loc>
-    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://sunfactory.pt/es/tags/coffee/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://sunfactory.pt/de/tags/coffee/"
-                />
-  </url><url>
-    <loc>http://sunfactory.pt/de/tags/images/</loc>
-    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://sunfactory.pt/es/tags/images/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://sunfactory.pt/tags/images/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://sunfactory.pt/de/tags/images/"
-                />
-  </url><url>
-    <loc>http://sunfactory.pt/de/blog/coffee-ipsum/</loc>
-    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://sunfactory.pt/es/blog/coffee-ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://sunfactory.pt/blog/coffee-ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://sunfactory.pt/de/blog/coffee-ipsum/"
-                />
-  </url><url>
-    <loc>http://sunfactory.pt/de/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://sunfactory.pt/es/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://sunfactory.pt/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://sunfactory.pt/de/series/"
+                href="https://sun-factory.github.io/de/blog/no-date/"
                 />
   </url>
 </urlset>

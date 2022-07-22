@@ -1,54 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Vorstellung</title>
-    <link>http://sunfactory.pt/de/tags/</link>
-    <description>Recent content in Tags on Vorstellung</description>
+    <title>Tags on Introdução</title>
+    <link>https://sun-factory.github.io/de/tags/</link>
+    <description>Recent content in Tags on Introdução</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 13 Nov 2017 11:58:39 -0500</lastBuildDate><atom:link href="http://sunfactory.pt/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Feb 2022 16:04:06 -0500</lastBuildDate><atom:link href="https://sun-factory.github.io/de/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ipsum</title>
-      <link>http://sunfactory.pt/de/tags/ipsum/</link>
-      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
+      <title>blog</title>
+      <link>https://sun-factory.github.io/de/tags/blog/</link>
+      <pubDate>Mon, 21 Feb 2022 16:04:06 -0500</pubDate>
       
-      <guid>http://sunfactory.pt/de/tags/ipsum/</guid>
+      <guid>https://sun-factory.github.io/de/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>words</title>
-      <link>http://sunfactory.pt/de/tags/words/</link>
-      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
+      <title>features</title>
+      <link>https://sun-factory.github.io/de/tags/features/</link>
+      <pubDate>Mon, 21 Feb 2022 16:04:06 -0500</pubDate>
       
-      <guid>http://sunfactory.pt/de/tags/words/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>code</title>
-      <link>http://sunfactory.pt/de/tags/code/</link>
-      <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
-      
-      <guid>http://sunfactory.pt/de/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>coffee</title>
-      <link>http://sunfactory.pt/de/tags/coffee/</link>
-      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
-      
-      <guid>http://sunfactory.pt/de/tags/coffee/</guid>
+      <guid>https://sun-factory.github.io/de/tags/features/</guid>
       <description></description>
     </item>
     
     <item>
       <title>images</title>
-      <link>http://sunfactory.pt/de/tags/images/</link>
-      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
+      <link>https://sun-factory.github.io/de/tags/images/</link>
+      <pubDate>Sun, 20 Feb 2022 12:04:16 -0500</pubDate>
       
-      <guid>http://sunfactory.pt/de/tags/images/</guid>
+      <guid>https://sun-factory.github.io/de/tags/images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>https://sun-factory.github.io/de/tags/code/</link>
+      <pubDate>Sat, 25 Jul 2020 02:04:06 -0500</pubDate>
+      
+      <guid>https://sun-factory.github.io/de/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ipsum</title>
+      <link>https://sun-factory.github.io/de/tags/ipsum/</link>
+      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
+      
+      <guid>https://sun-factory.github.io/de/tags/ipsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>words</title>
+      <link>https://sun-factory.github.io/de/tags/words/</link>
+      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
+      
+      <guid>https://sun-factory.github.io/de/tags/words/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://sun-factory.github.io/de/tags/markdown/</link>
+      <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
+      
+      <guid>https://sun-factory.github.io/de/tags/markdown/</guid>
       <description></description>
     </item>
     

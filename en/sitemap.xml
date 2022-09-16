@@ -2,127 +2,127 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>sun-made.org/projects/sunglasses/</loc>
+    <loc>/projects/sunglasses/</loc>
   </url><url>
-    <loc>sun-made.org/projects/bottle-opener/</loc>
+    <loc>/projects/bottle-opener/</loc>
   </url><url>
-    <loc>sun-made.org/projects/workshop/</loc>
+    <loc>/projects/workshop/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="sun-made.org/fr/projects/workshop/"
+                href="/fr/projects/workshop/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="sun-made.org/pt/projects/workshop/"
+                href="/pt/projects/workshop/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="sun-made.org/projects/workshop/"
+                href="/projects/workshop/"
                 />
   </url><url>
-    <loc>sun-made.org/projects/machines/</loc>
+    <loc>/projects/machines/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="sun-made.org/fr/projects/machines/"
+                href="/fr/projects/machines/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="sun-made.org/projects/machines/"
+                href="/projects/machines/"
                 />
   </url><url>
-    <loc>sun-made.org/projects/</loc>
+    <loc>/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="sun-made.org/fr/projects/"
+                href="/fr/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="sun-made.org/pt/projects/"
+                href="/pt/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="sun-made.org/projects/"
+                href="/projects/"
                 />
   </url><url>
-    <loc>sun-made.org/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2022-03-21T16:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="sun-made.org/fr/blog/"
+                href="/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="sun-made.org/pt/blog/"
+                href="/pt/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="sun-made.org/blog/"
+                href="/blog/"
                 />
   </url><url>
-    <loc>sun-made.org/</loc>
+    <loc>/</loc>
     <lastmod>2022-03-21T16:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="sun-made.org/fr/"
+                href="/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="sun-made.org/pt/"
+                href="/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="sun-made.org/"
+                href="/"
                 />
   </url><url>
-    <loc>sun-made.org/blog/what_s_solar_plastic_recycling/</loc>
+    <loc>/blog/what_s_solar_plastic_recycling/</loc>
     <lastmod>2022-03-21T16:04:06-05:00</lastmod>
   </url><url>
-    <loc>sun-made.org/series/</loc>
+    <loc>/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="sun-made.org/fr/series/"
+                href="/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="sun-made.org/pt/series/"
+                href="/pt/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="sun-made.org/series/"
+                href="/series/"
                 />
   </url><url>
-    <loc>sun-made.org/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="sun-made.org/fr/tags/"
+                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="sun-made.org/pt/tags/"
+                href="/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="sun-made.org/tags/"
+                href="/tags/"
                 />
   </url>
 </urlset>

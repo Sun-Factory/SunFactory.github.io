@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Introduction</title>
-    <link>sun-made.org/fr/projects/</link>
+    <link>/fr/projects/</link>
     <description>Recent content in Projects on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="sun-made.org/fr/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language><atom:link href="/fr/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lunettes de soleil</title>
-      <link>sun-made.org/fr/projects/lunettes/</link>
+      <link>/fr/projects/lunettes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>sun-made.org/fr/projects/lunettes/</guid>
+      <guid>/fr/projects/lunettes/</guid>
       <description>Créer à partir de zéro L&amp;rsquo;objectif de ce projet a été de démontrer qu&amp;rsquo;il est possible de créer une usine durable en utilisant des déchets plastiques, de l&amp;rsquo;énergie humaine et de l&amp;rsquo;énergie solaire thermique.
 Avec l&amp;rsquo;aide de Recua nous avons reproduit les machines à injection solaire, inventées par volks.eco et Plastok.
 Après avoir construit les machines, Liquen eyewear a co-développé et fabriqué ces lunettes de soleil à partir de zéro.</description>
@@ -19,20 +19,20 @@ Après avoir construit les machines, Liquen eyewear a co-développé et fabriqu�
     
     <item>
       <title>Décapsuleur</title>
-      <link>sun-made.org/fr/projects/ouvre_bouteilles/</link>
+      <link>/fr/projects/ouvre_bouteilles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>sun-made.org/fr/projects/ouvre_bouteilles/</guid>
+      <guid>/fr/projects/ouvre_bouteilles/</guid>
       <description>Forme rapide Le but de ce projet a été de créer un produit pratique qui puisse être personnalisé et rapidement. Pour gagner du temps, nous avons développé un nouveau procédé de fabrication de moules à injection utilisant l&amp;rsquo;impression 3D.
 Nous pouvons concevoir et créer des moules en peu de temps.</description>
     </item>
     
     <item>
       <title>Work Shop</title>
-      <link>sun-made.org/fr/projects/workshop/</link>
+      <link>/fr/projects/workshop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>sun-made.org/fr/projects/workshop/</guid>
+      <guid>/fr/projects/workshop/</guid>
       <description>On enseigne Après plus d&amp;rsquo;un an d&amp;rsquo;expérience dans le recyclage du plastique avec l&amp;rsquo;énergie solaire thermique, nous sommes disponibles pour enseigner et démontrer l&amp;rsquo;efficacité de notre procédé.
 Vous voulez savoir comment fonctionne l&amp;rsquo;injection solaire plastique. jetez un œil à notre atelier Agenda.
 Nous pouvons vous expliquer comment créer des produits en plastique recyclé en utilisant l&amp;rsquo;énergie solaire.</description>
@@ -40,10 +40,10 @@ Nous pouvons vous expliquer comment créer des produits en plastique recyclé en
     
     <item>
       <title>Machines</title>
-      <link>sun-made.org/fr/projects/machines/</link>
+      <link>/fr/projects/machines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>sun-made.org/fr/projects/machines/</guid>
+      <guid>/fr/projects/machines/</guid>
       <description>Nous créons nos machines Nos concentrateurs solaires manuels sont la clé de la production écologique d&amp;rsquo;objets en plastique recyclé.
 Sur la base d&amp;rsquo;un savoir-faire partagé, nous construisons, testons, exploitons et caractérisons le procédé d&amp;rsquo;injection plastique utilisant l&amp;rsquo;énergie solaire.
 Après plus d&amp;rsquo;un an d&amp;rsquo;utilisation du procédé solaire thermique, nous avons pu lister les points d&amp;rsquo;optimisation d&amp;rsquo;un procédé garantissant la production de machines et de produits à plus grande échelle.

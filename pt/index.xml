@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introdução</title>
-    <link>sun-made.org/pt/</link>
+    <link>/pt/</link>
     <description>Recent content on Introdução</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
-    <lastBuildDate>Mon, 21 Mar 2022 16:04:06 -0500</lastBuildDate><atom:link href="sun-made.org/pt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Mar 2022 16:04:06 -0500</lastBuildDate><atom:link href="/pt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Oculos de sol</title>
-      <link>sun-made.org/pt/projects/oculos/</link>
+      <link>/pt/projects/oculos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>sun-made.org/pt/projects/oculos/</guid>
+      <guid>/pt/projects/oculos/</guid>
       <description>Criar a partir do zero O objetivo deste projeto foi demonstrar que é possível criar uma fábrica sustentável utilizando resíduos plásticos, energia humana e energia solar térmica.
 Com a ajuda de Recua reproduzimos as máquinas de injeção solar, inventadas por volks.eco e Plastok.
 Depois de construir as máquinas, a Liquen eyewear co-desenvolveu e fabricou estes óculos de sol a partir do zero.
@@ -21,20 +21,20 @@ Cuidamos de todas as etapas entre a ideia e o produto final.</description>
     
     <item>
       <title>Abre caricas</title>
-      <link>sun-made.org/pt/projects/abre-caricas/</link>
+      <link>/pt/projects/abre-caricas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>sun-made.org/pt/projects/abre-caricas/</guid>
+      <guid>/pt/projects/abre-caricas/</guid>
       <description>Forma rápida O objetivo deste projeto era criar um produto prático que pudesse ser personalizado e rapidamente. Para economizar tempo, desenvolvemos um novo processo de fabricação de moldes de injeção usando impressão 3D.
 Podemos projetar e criar moldes em um curto espaço de tempo.</description>
     </item>
     
     <item>
       <title>Work Shop</title>
-      <link>sun-made.org/pt/projects/workshop/</link>
+      <link>/pt/projects/workshop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>sun-made.org/pt/projects/workshop/</guid>
+      <guid>/pt/projects/workshop/</guid>
       <description>Ensinamos Depois de mais de um ano de experiência em reciclagem de plástico com energia solar térmica, estamos disponíveis para ensinar e demonstrar a eficácia do nosso processo.
 Quer saber como funciona a injeção solar de plástico. dê uma olhada no nosso Workshop Agenda.
 Podemos explicar como criar produtos plásticos reciclados usando energia solar.</description>
@@ -42,10 +42,10 @@ Podemos explicar como criar produtos plásticos reciclados usando energia solar.
     
     <item>
       <title>Máquinas</title>
-      <link>sun-made.org/pt/projects/maquinas/</link>
+      <link>/pt/projects/maquinas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>sun-made.org/pt/projects/maquinas/</guid>
+      <guid>/pt/projects/maquinas/</guid>
       <description>Criamos as nossas máquinas AS nossas máquinas manuais de concentração solar são a chave para a produção ecológica de objetos de plástico reciclado.
 Com base no know-how compartilhado, construímos, testamos, usamos e caracterizamos o processo de injeção de plástico usando energia solar.
 Após mais de um ano de uso do processo solar térmico, conseguimos elencar os pontos de otimização para um processo que garante a produção de máquinas e produtos em maior escala.</description>
@@ -53,10 +53,10 @@ Após mais de um ano de uso do processo solar térmico, conseguimos elencar os p
     
     <item>
       <title>O que é injeção plástica solar ?</title>
-      <link>sun-made.org/pt/blog/o_que_e_injecao_plastica_solar/</link>
+      <link>/pt/blog/o_que_e_injecao_plastica_solar/</link>
       <pubDate>Mon, 21 Mar 2022 16:04:06 -0500</pubDate>
       
-      <guid>sun-made.org/pt/blog/o_que_e_injecao_plastica_solar/</guid>
+      <guid>/pt/blog/o_que_e_injecao_plastica_solar/</guid>
       <description>A reciclagem de plástico solar é a maneira mais ecológica de reciclar plástico usando energia térmica solar para derreter o plástico.
 Introdução A cada ano no mundo, os resíduos plásticos representam 245 megatoneladas, apenas 16% são reciclados, 22% são incinerados com recuperação de energia e 62% vão para aterros ou incinerados sem recuperação de energia.
 A reciclagem de plástico é o reprocessamento de resíduos plásticos em produtos novos e úteis. Quando feito corretamente, pode reduzir a dependência de aterros sanitários, conservar os recursos naturais e proteger o meio ambiente da poluição plástica.</description>
